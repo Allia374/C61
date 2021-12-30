@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+#App{
+background-color: beige;
+}
+#games{
+    background-color: rgb(243, 222, 194);
+}
+#chat{
+    background-color: cornsilk;
+}
+h1{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
